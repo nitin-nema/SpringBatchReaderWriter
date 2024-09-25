@@ -1,0 +1,10 @@
+<transactions>
+    <transaction>
+        <amount>150.0</amount>
+        <id>5</id>
+    </transaction>
+    <transaction>
+        <amount>250.0</amount>
+        <id>3</id>
+    </transaction>
+</transactions>
